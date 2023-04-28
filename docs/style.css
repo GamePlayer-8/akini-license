@@ -1,6 +1,6 @@
 body {
-    background-color: #668377;
-    color: #668377;
+    background-color: linear-gradient(#855dff, #63a9ff);
+    color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: center;
