@@ -1,37 +1,40 @@
-html {
-	height: 100%;
+body {
+	vertical-align: middle;
+	text-align: center;
+	font-family: monospace;
+	font-size: 15;
+	background-image: linear-gradient(
+    to bottom,
+    rgba(0, 10, 70),
+    rgba(20, 20, 30)
+  );
 }
 
-body {
-	background: linear-gradient(#20004e, #002149);
-    	background-repeat: no-repeat;
-	margin: 0;
-	background-attachment: fixed;
-	display: inline-block;
-	vertical-align: middle;
-	background-color: linear-gradient(top, bottom, rgb(12, 10, 50), rgb(15, 30, 60));
+h1, b, code, h2, h3, hr, p, ul {
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
 	background-image: linear-gradient(45deg, rgb(120, 30, 230), rgb(150, 150, 150));
 	background-size: 100%;
 	background-clip: text;
-	-webkit-background-clip: text;
-	-moz-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	-moz-text-fill-color: transparent;
-	text-align: center;
-	font-size: 15;
-	font-family: monospace;
-	text-shadow: 5px;
 }
 
-
-
 hr {
-	background-clip: text;
-	-webkit-background-clip: text;
-	-moz-background-clip: text;
-	-webkit-text-fill-color: transparent;
-	-moz-text-fill-color: transparent;
-	background-size: 100%;
-	display: inline-block;
+	background: linear-gradient(45deg, rgb(120, 30, 230), rgb(150, 150, 150));
 	width: 95%;
+	height: 1px;
+	border: 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+div {
+	border-radius: 5px;
+	background-image: linear-gradient(rgb(230, 230, 230, 0.05), rgb(230, 40, 130, 0.1));
+	margin: 5px;
+	padding-bottom: 5px;
+	
 }
