@@ -1,8 +1,37 @@
+html {
+	height: 100%;
+}
+
 body {
-    background-color: linear-gradient(#855dff, #63a9ff);
-    color: #ffffff;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
+	background: linear-gradient(#20004e, #002149);
+    	background-repeat: no-repeat;
+	margin: 0;
+	background-attachment: fixed;
+	display: inline-block;
+	vertical-align: middle;
+	background-color: linear-gradient(top, bottom, rgb(12, 10, 50), rgb(15, 30, 60));
+	background-image: linear-gradient(45deg, rgb(120, 30, 230), rgb(150, 150, 150));
+	background-size: 100%;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	text-align: center;
+	font-size: 15;
+	font-family: monospace;
+	text-shadow: 5px;
+}
+
+
+
+hr {
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	background-size: 100%;
+	display: inline-block;
+	width: 95%;
 }
