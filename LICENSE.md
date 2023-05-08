@@ -20,5 +20,6 @@ This license is provided "AS IS," and there is no warranty that the licensed pro
 ### Link to Creator(s)
 
 - https://xaviama.dank-me.me
+- https://wyndix.dev
 
 *This is a revised version, second version of the license. However, it is always advisable to consult with a legal expert for any licensing matters.*
