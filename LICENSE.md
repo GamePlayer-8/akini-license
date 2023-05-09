@@ -1,15 +1,17 @@
 # ⚡ Akini License
 
-**Version 2.0, 08.05.2023**
+**Version 2.1, 09.05.2023**
 
-This license is provided "AS IS," and there is no warranty that the licensed product will work as described.
+THE LICENSED PRODUCT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Terminology
 
 - "**Company**" refers to any legal entity that engages in commercial activities and has one or more employees, and everybody that's on their behalf.
 - "**Non-profit**" refers to an organization that is dedicated to furthering a particular social cause or advocating for a shared point of view, and which does not distribute its surplus funds to shareholders or owners, and everybody on behalf of them.
 - "**Individual**" refers to a person who may or may not work for a company or a non-profit, but is not acting on behalf of any organization.
-- "**Allowed entity**" refers to entities which are allowed to copy, modify, share and redistribute anything that's under this license, among other things. One is only an allowed entity if explicitly stated in this document.
+- "**Allowed entity**" refers to any entity that has explicitly been granted permission to copy, modify, share, and redistribute the licensed product under this license. Permission must be explicitly stated in this document or in writing by the author of the licensed product.
+- "**Making profit**" refers to any commercial or financial gain obtained from the licensed product, including but not limited to direct sales, advertising revenue, and fees for services that utilize the licensed product.
+- "**Forking**" refers to creating a new version of the licensed product that includes modifications or additions, either by the original author or by another entity.
 - "**License**" refers to this variation of the Akini license, older revisions are exempt.
 
 **Any special terminology will be surrounded with quotes, like "this". Word variations count.**
@@ -20,7 +22,7 @@ This license is provided "AS IS," and there is no warranty that the licensed pro
 
 - This "license" permits both commercial and private usage of the licensed product to "allowed entities".
 - This "license" disclaims any liability for anything harmful caused by the licensed product.
-- Any "allowed entity" may make money from the licensed product under this license, but must include the original source.
+- Any "allowed entity" may "make profit" from the licensed product under this license, but must include the original source.
 - Any forks of the licensed product must be released under the "license" or a newer version created by the same entity.
 
 #### "Individuals"
