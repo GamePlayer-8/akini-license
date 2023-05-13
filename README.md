@@ -11,7 +11,7 @@
 Akini is a license that can protect your projects against big tech. For individuals and non-profits it's very similar to the `MIT License`.
 
 - It is human-readable, short and concise.
-- It allows users and non-profits alike to freely use your product like they would with a permissive license such as MIT.
+- It allows users and non-profits alike to freely use your product like they would with a permissive license such as `MIT`.
 - It requires giving credit to the original creator.
 - It protects your project against being redistributed or modified by any company.
 - It is upgrade-able.
@@ -24,10 +24,6 @@ You can "copy/paste" the license into your project.
 ### Contributing
 
 Akini is an open source project made for the benefit of everyone. Contributions are welcomed, as long as they don't take away any user rights. <3
-
-### Security Risks
-
-This license does not recommend using copyright to secure the licensed product. It is an unregistered license and is not legally approved by any government.
 
 <hr/>
 

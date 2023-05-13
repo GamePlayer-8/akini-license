@@ -1,6 +1,6 @@
 # ⚡ Akini License
 
-**Version 2.1, 09.05.2023**
+**Version 3.0, 13.05.2023**
 
 THE LICENSED PRODUCT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
@@ -20,7 +20,7 @@ THE LICENSED PRODUCT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 
 #### General
 
-- This "license" permits both commercial and private usage of the licensed product to "allowed entities".
+- This "license" permits both non-commercial and private usage of the licensed product to "allowed entities".
 - This "license" disclaims any liability for anything harmful caused by the licensed product.
 - Any "allowed entity" may "make profit" from the licensed product under this license, but must include the original source.
 - Any forks of the licensed product must be released under the "license" or a newer version created by the same entity.
@@ -33,21 +33,9 @@ THE LICENSED PRODUCT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 
 - "Companies" are not "allowed entities" under this license.
 
-#### "Non-profits"
-
-- "Non-profits" are "allowed entities" under this license.
-
 #### Non-"allowed entity"
 
 If you, as an entity are not an "allowed entity", you shall not use the product.
-
-## License migration
-
-Any forks of the licensed product must be released under this "license" or a different version by the same entity who wrote the "license".
-
-## Security Risks
-
-This "license" does not recommend using copyright to secure the licensed product. It is an unregistered license and is not legally approved by any government.
 
 ## Attributions
 
