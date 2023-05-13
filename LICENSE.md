@@ -1,6 +1,6 @@
 # ⚡ Akini License
 
-**Version 3.0, 13.05.2023**
+**Version 3.1, 13.05.2023**
 
 THE LICENSED PRODUCT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
@@ -36,6 +36,10 @@ THE LICENSED PRODUCT IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS 
 #### Non-"allowed entity"
 
 If you, as an entity are not an "allowed entity", you shall not use the product.
+
+#### Enforceability
+
+To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 
 ## Attributions
 
